@@ -1,4 +1,4 @@
-## Hi there 👋
+## Ciao, sono Francesco 👋
 
 <!--
 **daviero/daviero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Sviluppatore software con formazione in Informatica e Telecomunicazioni ed esperienza nello sviluppo di siti e applicazioni web.
+
+🔧 Lavoro principalmente con HTML, CSS e JavaScript.
+Mi piace progettare soluzioni pratiche e imparare nuove tecnologie, sperimentando con progetti personali come app Java e tool web interattivi.
